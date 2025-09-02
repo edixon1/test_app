@@ -867,7 +867,7 @@
     }
   },
   "files": {
-    "test_app/app.R": {
+    "app.R": {
       "checksum": "154b04c14f3586cd3aca509aa5c7bebe"
     }
   },
